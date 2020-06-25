@@ -26,6 +26,7 @@ In the future we might want to get past historical data for many of these import
 ## Statistical Analysis ##
 
 *t-test*
+
 *F-test*
 
 ## Machine Learning ##
