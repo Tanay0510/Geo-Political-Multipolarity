@@ -22,3 +22,14 @@ We also collected around 100,000 tweets regarding the NATO summit in early Decem
 In conclusion we determined that this model is a fairly accurate for determining a nations place on the CINC ranking. While this is not exactly what the author was theorized in his book it was as close as we could come given the data available and the time frame we had available to complete this project. In fact there are many limitations to this project mostly based around the availability and reliability of the data itself and the inability to quantify intangible variables for modeling geopolitical strength.
 
 In the future we might want to get past historical data for many of these important variables and see how they have changed over time. New research also suggests it is far too simple to simply correlate GDP with the CINC as there are many past historical examples of this not accurately interpreting the reality of the growth of certain nations.
+
+## Statistical Analysis ##
+
+*t-test
+*F-test
+
+## Machine Learning ##
+
+*Regression
+
+
