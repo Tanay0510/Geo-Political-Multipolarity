@@ -23,6 +23,10 @@ In conclusion we determined that this model is a fairly accurate for determining
 
 In the future we might want to get past historical data for many of these important variables and see how they have changed over time. New research also suggests it is far too simple to simply correlate GDP with the CINC as there are many past historical examples of this not accurately interpreting the reality of the growth of certain nations.
 
+## Conclusion ##
+
+Based on our analysis we can conclude that the author’s theory is relatively correct regarding the correlation between various variables and the Composite Index of National Capability. While the real struggles exist in actually determine an accurate dependent variable and also with the data collection itself, this topic remains highly relevant in the modern world. Our sentiment analysis also reveals people feel pretty negatively about globalism right now if using the most recent NATO summit as a barometer. Overall, we would suggest a more in-depth and detailed analysis of this phenomena and we do not think that it can be so simply reduced to specific variables and formula equations.
+
 ## Statistical Analysis ##
 
 *t-test*
