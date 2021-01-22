@@ -39,7 +39,7 @@ library(ggpubr)
 library(ggcorrplot)
 
 # Load the dataset by reading CSV file
-# obesity.data <- read.csv(file.choose())
+
 firepower.data <- read.csv("globalization.csv")
 
 # Convert all blank values to NA
@@ -107,7 +107,7 @@ summary(firepower.model.final)
 # Estimate Std. Error t value Pr(>|t|)    
 # (Intercept)                     -1.027e-03  1.230e-03  -0.835  0.40490    
 # HDI...Change..1.Yr.              9.280e-02  3.048e-01   0.305  0.76108    
-#P opulation                       5.105e-11  6.177e-12   8.264 2.43e-14 ***
+# Population                       5.105e-11  6.177e-12   8.264 2.43e-14 ***
 # Oil.Reserves..millions.barrels.  6.732e-09  1.590e-08   0.423  0.67252    
 # IEF                             -2.642e-06  1.020e-05  -0.259  0.79587    
 # Reserve.Military                -8.527e-09  2.831e-09  -3.012  0.00295 ** 
